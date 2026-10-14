@@ -1,4 +1,4 @@
-# marketReporter
+# marketReporter AI
 
 A Spring Boot application that pulls market data from external APIs, runs it through an AI model, and returns clear, actionable insights about the current market situation.
 
